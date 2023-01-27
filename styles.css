@@ -1,1 +1,26 @@
 /* your code */
+th{
+    background-color: blue;
+    color: whitesmoke;
+    padding: 10px;
+    border-collapse: collapse;
+    
+}
+
+.table-1{
+    
+    border-collapse: collapse;
+    padding: 3px;
+    border-radius: 3px;
+
+
+}
+.table-3 ,.table-4{
+    background-color: bisque;
+}
+td{
+    margin: 0;
+    padding:10px;
+    border-collapse: collapse;
+    text-align: centre;
+}
